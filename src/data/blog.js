@@ -1,0 +1,38 @@
+export const blogPosts = [
+  {
+    id: 1,
+    emoji: "🧩",
+    title: "How I Built My Portfolio Website",
+    category: "Web Development",
+    status: "Coming Soon",
+    excerpt: "A walkthrough of building this dashboard-style portfolio with React, Vite, and CSS.",
+    tags: ["React", "Vite", "CSS"],
+  },
+  {
+    id: 2,
+    emoji: "📊",
+    title: "Building a Responsive Dashboard Interface",
+    category: "Frontend",
+    status: "Coming Soon",
+    excerpt: "Notes on structuring a sidebar + topbar dashboard layout that holds up across screen sizes.",
+    tags: ["CSS", "Responsive Design", "UI"],
+  },
+  {
+    id: 3,
+    emoji: "🏢",
+    title: "Creating a Real Estate Analytics Dashboard",
+    category: "Project Writeup",
+    status: "Coming Soon",
+    excerpt: "How the Real Estate Analytics System's property management screens came together.",
+    tags: ["Python", "OOP", "Flask"],
+  },
+  {
+    id: 4,
+    emoji: "🧱",
+    title: "Building Reusable React Components",
+    category: "Frontend",
+    status: "Coming Soon",
+    excerpt: "Patterns for keeping cards, forms, and charts modular and reusable across pages.",
+    tags: ["React", "Components"],
+  },
+];
